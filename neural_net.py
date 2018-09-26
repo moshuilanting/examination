@@ -1,7 +1,8 @@
 #coding=utf-8
 
-import numpy as np
+#手写神经网络——矩阵运算
 
+import numpy as np
 #定义非线性sigmoid函数, True为求导，False为sigmoid非线性函数
 def nonlin(x,deriv=False):
     if(deriv==True):

@@ -1,0 +1,8 @@
+小程序目录：
+dynamic_coin.py: 动态规划 硬币问题
+dynamic_lcs.py:动态规划 最长公共子序列
+factor_sequence.py: 递归 因子序列问题
+fast_sorting.py:左右指针，递归 快速排序
+matrix_convolution.py:边沿镜像的二维矩阵的卷积（滤波）
+neural_net.py:神经网络实现
+same_color_ball.py: 三色小球的排列组合同色不相邻
